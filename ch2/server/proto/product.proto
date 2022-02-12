@@ -7,7 +7,6 @@ syntax = "proto3"; // protobuf version
  */
 option go_package = "github.com/channel-io/grpc-study/proto";
 
-
 package product;
 
 service ProductInfo {
